@@ -50,3 +50,13 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+
+# Environment
+.env
+.env.*
+
+# Local
+.local
+*.local
+*.local.*
