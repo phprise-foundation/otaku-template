@@ -1,6 +1,6 @@
 # Contributing to PHPRise <Repository>
 
-Thank you for considering contributing to PHPRise Common! The contribution guidelines are as follows:
+Thank you for considering contributing to PHPRise <Repository>! The contribution guidelines are as follows:
 
 ## Code of Conduct
 
