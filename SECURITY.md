@@ -18,4 +18,4 @@ Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 rejected, etc.
 
-If you discover a security vulnerability within this project, please send an e-mail to **esdraschonevald@gmail.com**. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this project, please send an e-mail to **esdras.schonevald@gmail.com**. All security vulnerabilities will be promptly addressed.
