@@ -11,33 +11,30 @@ composer require phprise/<repository>
 ## Usage
 
 <Describe Usage>
-  
+
 
 ## Philosophy
+We follow **The OTAKU Manifesto: Fluid Structure Design**.
 
-Please read [PHILOSOPHY.md](PHILOSOPHY.md) to learn more about our philosophy.
+1. **O** - Own your Discipline (Be strict with yourself)
+2. **T** - Tools for Composition (Compose like Unix)
+3. **A** - Armor the Core (Protect the heart of the business)
+4. **K** - Keep Infrastructure Silent (Infrastructure is just a detail)
+5. **U** - Universal Language & Contracts (Speak the user's language via clear contracts)
+
+Please read more about it in [PHILOSOPHY.md](PHILOSOPHY.md).
 
 
 ## License
-
 MIT License
 
+Free to use, modify, and distribute.
 
 ## Contributing
-
-Check [CONTRIBUTING.md](CONTRIBUTING.md) to learn more about our contributing guidelines.
-
+See how to contribute in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Code of Conduct
-
-Check [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to learn more about our code of conduct.
-
+See our code of conduct in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## Security
-
-Check [SECURITY.md](SECURITY.md) to learn more about our security policy.
-
-
-## Changelog
-
-Check [CHANGELOG.md](CHANGELOG.md) for more information.
+See our security policy in [SECURITY.md](SECURITY.md).

@@ -1,4 +1,4 @@
-# The Otaku Manifesto: Fluid Structure Design
+# The OTAKU Manifesto: Fluid Structure Design
 
 This philosophy is built upon the OTAKU acronym—reflecting a technical obsession with mastery, discipline, and structural purity.
 
